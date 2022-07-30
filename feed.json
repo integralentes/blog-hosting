@@ -1,0 +1,33 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog Integralentes",
+    "home_page_url": "https://integralentes.cl/",
+    "feed_url": "https://integralentes.cl/feed.json",
+    "description": "Noticias sobre Integralentes y consejos para usuarios de lentes ópticos.",
+    "items": [
+        {
+            "id": "https://integralentes.cl/2022/07/20/astigmatismo/",
+            "url": "https://integralentes.cl/2022/07/20/astigmatismo/",
+            "title": "El astigmatismo",
+            "summary": "¿Qué es el astigmatismo?",
+            "image": "https://integralentes.cl/photos/2022/preguntas.png",
+            "date_modified": "2022-07-20T17:27:40.000Z"
+        },
+        {
+            "id": "https://integralentes.cl/2022/07/16/glaucoma-degradacion-visual/",
+            "url": "https://integralentes.cl/2022/07/16/glaucoma-degradacion-visual/",
+            "title": "Glaucoma y degeneración visual",
+            "summary": "¿Cómo afecta el glaucoma mi visión?",
+            "image": "https://integralentes.cl/photos/2022/examen.png",
+            "date_modified": "2022-07-16T12:21:35.000Z"
+        },
+        {
+            "id": "https://integralentes.cl/2022/07/15/diabetes-problemas-vision/",
+            "url": "https://integralentes.cl/2022/07/15/diabetes-problemas-vision/",
+            "title": "Diabetes y problemas de visión",
+            "summary": "¿Cómo afecta la diabetes a mi visión?",
+            "image": "https://integralentes.cl/photos/2022/diabetes.jpg",
+            "date_modified": "2022-07-15T19:39:33.000Z"
+        }
+    ]
+}
